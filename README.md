@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shashankrai69
 - 👀 I’m interested in Data Science.
-- 👨‍💻 I've learnt Python, R and SQL for Data Science.
+- 👨‍💻 I've learnt Python, R, SQL and MS Excel for Data Science.
 - ⌨️ I've also worked on C and C++.
 - 🌱 I’m currently learning Java.
 <!---
